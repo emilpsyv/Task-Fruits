@@ -1,0 +1,15 @@
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\bin\Debug\net6.0\fruitInUni.exe
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\bin\Debug\net6.0\fruitInUni.deps.json
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\bin\Debug\net6.0\fruitInUni.runtimeconfig.json
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\bin\Debug\net6.0\fruitInUni.dll
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\bin\Debug\net6.0\fruitInUni.pdb
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\obj\Debug\net6.0\fruitInUni.csproj.AssemblyReference.cache
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\obj\Debug\net6.0\fruitInUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\obj\Debug\net6.0\fruitInUni.AssemblyInfoInputs.cache
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\obj\Debug\net6.0\fruitInUni.AssemblyInfo.cs
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\obj\Debug\net6.0\fruitInUni.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\obj\Debug\net6.0\fruitInUni.dll
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\obj\Debug\net6.0\refint\fruitInUni.dll
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\obj\Debug\net6.0\fruitInUni.pdb
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\obj\Debug\net6.0\fruitInUni.genruntimeconfig.cache
+C:\Users\ca.r214.10\Desktop\ab106\fruitInUni\fruitInUni\obj\Debug\net6.0\ref\fruitInUni.dll
